@@ -17198,8 +17198,8 @@ p {
     position: relative;
     z-index: 1;
     width: 80%;
-    max-width: 150px;
-    max-height: 110px;
+    max-width: 400px;
+    max-height: 400px;
     height: auto;
     -webkit-transition: -webkit-transform .8s;
     transition: -webkit-transform .8s;
@@ -19411,7 +19411,7 @@ section.catalog {
 }
 
 .page-footer__logo img {
-    height: 31px;
+    height: 120px;
     max-width: auto
 }
 
